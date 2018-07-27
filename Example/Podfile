@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'StoryboardDemo_Example' do
+  pod 'StoryboardDemo', :path => '../'
+
+  target 'StoryboardDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
