@@ -1,0 +1,6 @@
+framework module StoryboardDemo {
+  umbrella header "StoryboardDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

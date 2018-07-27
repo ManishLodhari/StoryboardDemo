@@ -1,0 +1,16 @@
+PODS:
+  - StoryboardDemo (0.1.0)
+
+DEPENDENCIES:
+  - StoryboardDemo (from `../`)
+
+EXTERNAL SOURCES:
+  StoryboardDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StoryboardDemo: 50b259b497a5130ad1e416c6c5a5f4c19105394d
+
+PODFILE CHECKSUM: c640fbe201599fc7511c50a15dca5315b13caff5
+
+COCOAPODS: 1.5.3
